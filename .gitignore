@@ -4,6 +4,8 @@
 .idea/modules.xml
 .idea/vcs.xml
 .idea/uiDesigner.xml
+.idea/libraries
+
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
@@ -32,3 +34,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/.idea/

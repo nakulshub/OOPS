@@ -4,7 +4,7 @@ public class Encapsulation {
 
     public void print()
     {
-        System.out.println("hello world1");
+        System.out.println("hello world2");
     }
 
 }
